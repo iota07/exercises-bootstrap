@@ -16,3 +16,30 @@
 body{
     padding: 20px;
 }
+
+/*ex 2*/
+.gauche {
+    height:30px;
+    text-align:center;
+}
+
+.exRight {
+    padding: 0px;
+    margin: 0px;
+}
+
+.rightRow {   
+    
+    margin: 0px;
+    padding:0px;
+
+
+}
+
+.gauche, .droite {
+    
+    background-color: rgb(234, 212, 255);
+    border: 1px solid black;
+    margin:0;
+    
+}
