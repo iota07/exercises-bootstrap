@@ -1,4 +1,4 @@
-# Exerceise on bootstrap
+# Exercise on bootstrap
 
 ## Initialisation
 
